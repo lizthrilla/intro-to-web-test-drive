@@ -44,6 +44,7 @@ For this assignment you will be taking the HTML you made for the last project an
 
 ### Tools
 - [Color Hunt - Trendy Color Palettes](https://colorhunt.co/)
+- [Accessible Color Palette Builder](https://toolness.github.io/accessible-color-matrix/)
 - [ColorSafe - Tool for creating accessible color palettes](http://colorsafe.co/)
 - [CSS Gradient - Apply background color gradients with this took](https://cssgradient.io/)
 - [Page Ruler Redux - Chrome Extension](https://chrome.google.com/webstore/detail/page-ruler-redux/giejhjebcalaheckengmchjekofhhmal?hl=en)
