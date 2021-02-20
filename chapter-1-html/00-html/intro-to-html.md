@@ -23,13 +23,12 @@ This is the basic intro to HTML. This lecture is what will introduce students to
 
 **Review**
 
-- [Web Accessibility](https://docs.google.com/presentation/d/1PYVK1etWcTdu_Zbp5YlURsUoI3FMI401eSm3kbbRvig/edit?usp=sharing)
+- [Web Accessibility](https://docs.google.com/presentation/d/1aICBW9gePo2BzRjx0FXjlYaW0_VmO_f2h2tGcEk7D1Y/edit?usp=sharing)
 
 ## Full Code Samples
 
 - [In Class Demo](https://liz-cat-hotel.glitch.me/)
-- list of tags here: https://handbook.suncoast.io/lessons/html-intro/common-tags
-  https://github.com/gstark/answer-key/tree/master/part-time/tourism
+- [list of common tags here](https://handbook.suncoast.io/lessons/html-intro/common-tags)
 
 ## Lecture notes
 
