@@ -10,7 +10,7 @@ To start, you will need to start with the HTML and content.
 
 [A sample of an in class example](https://liz-cat-hotel.glitch.me/)
 
-[Here is how your homework will look](https://glitch.com/~testdrive-02-21)
+[Our in class example](https://glitch.com/~testdrive-02-21)
 
 ### Requirements
 
