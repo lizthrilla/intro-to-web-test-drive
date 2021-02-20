@@ -1,6 +1,6 @@
 # It all starts with HTML
 
-Over the course, you will be building a website for a hotel, restaurant, flower shop, or beauty salon/barber.  An example would be creating a clone of [https://sdg-tourism.netlify.com](https://sdg-tourism.netlify.com). This will have a few pages and will serve for us as a playground to learn about web development.
+Over the course, you will be building a website for a hotel, restaurant, flower shop, or beauty salon/barber.  An example would be creating a clone of [https://sdg-tourism.netlify.com](https://sdg-tourism.netlify.com) or [https://liz-cat-hotel.glitch.me/](https://liz-cat-hotel.glitch.me/#). This will have a few pages and will serve for us as a playground to learn about web development.
 
 All web pages have to start somewhere, and this site is no different. To start off, you will be laying the groundwork for the weeks to come.
 
@@ -8,9 +8,9 @@ To start, you will need to start with the HTML and content.
 
 [Here is a sample of finished project](https://sdg-tourism.netlify.com/)
 
-[Another sample of an in class example](https://liz-cat-hotel.glitch.me/)
+[A sample of an in class example](https://liz-cat-hotel.glitch.me/)
 
-[Here is how your homework will look](https://github.com/lizthrilla/intro-to-web-test-drive/blob/master/chapter-1/00-html/homework-sample.png)
+[Here is how your homework will look](https://glitch.com/~testdrive-02-21)
 
 ### Requirements
 
@@ -36,7 +36,7 @@ To start, you will need to start with the HTML and content.
   - [ ] Contact information
   - [ ] a footer
 - [ ] Start your project on Glitch.com
-    - [ ] Send your glitch project url (ie https://test-drive-09-20.glitch.me/) to the instructor via Slack.
+    - [ ] Send your glitch project url (ie https://glitch.com/~testdrive-02-21) to the instructor via Slack.
 
 **NOTE**: Remember, this is all about content, do not worry about making your website look nice, we will do that later.
 
@@ -46,10 +46,11 @@ To start, you will need to start with the HTML and content.
 - [ ] [SDG Handbook on CSS](https://handbook.suncoast.io/lessons/css-intro)
 - [ ] Create a simple [wire frame](https://en.wikipedia.org/wiki/Website_wireframe) for your finished site.
 - [ ] Start to add some basic CSS to your site to match your wire frame.
-
 ### Additional Resources
 
+- [Class notes and slides](https://github.com/lizthrilla/intro-to-web-test-drive/blob/master/chapter-1-html/00-html/intro-to-html.md)
 - [SDG Handbook on HTML](https://handbook.suncoast.io/lessons/html-intro)
+- [SDG Handbook with common HTML elements](https://handbook.suncoast.io/lessons/html-intro/common-tags)
 - [HTML Tag Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 - [How do HTML Tags work](https://developer.mozilla.org/en-US/Learn/HTML/HTML_tags)
 - [Evolution of the Web](http://www.evolutionoftheweb.com)

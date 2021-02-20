@@ -33,16 +33,16 @@ This is the basic intro to HTML. This lecture is what will introduce students to
 
 ## Lecture notes
 
-- start off by walking through the high level request/response life cycle of HTTP
+- High level explanation of the request/response life cycle of HTTP
   - browser makes a request to a server with a url
   - server response with a response, for today, that response is HTML
 - make our first HTML page using [Glitch.com](https://glitch.com)
-- walk through the glitch development experience
+- the glitch development experience
   - dark mode vs light mode
   - 'showing' the website in a separate tab or side by side
   - renaming your project
   - adding a description
-- show project structure
+- project structure
   - index.html
   - ReadMe
   - style.css
@@ -51,7 +51,7 @@ This is the basic intro to HTML. This lecture is what will introduce students to
   - assets
   - *we will only be focusing on index.html today*
 - open index.html
-- explain elements
+- existing elements
   - doctype
   - html
   - head
@@ -76,7 +76,7 @@ This is the basic intro to HTML. This lecture is what will introduce students to
 
 ## Possible Assignments
 
-- `open a business` - Create the HTML for a business of your choice.
+- `It All Starts with HTML` - [Create the HTML for a business of your choice](https://github.com/lizthrilla/intro-to-web-test-drive/blob/master/chapter-1-html/00-html/assignment.md).
 
 ## Additional Resources
 

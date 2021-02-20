@@ -7,9 +7,9 @@ Now that you have created the HTML, its time to give you page some personality. 
 For this assignment you will be taking the HTML you made for the last project and extending it to have some styling.
 
 ### In Class Example
-- [https://glitch.com/~test-drive-09-20](https://glitch.com/~test-drive-09-20)
+- [https://glitch.com/~testdrive-02-21](https://glitch.com/~testdrive-02-21)
 
-- [https://test-drive-09-20.glitch.me/](https://test-drive-09-20.glitch.me/)
+- [https://testdrive-02-21.glitch.me/](https://testdrive-02-21.glitch.me/)
 
 ### Slides
 
