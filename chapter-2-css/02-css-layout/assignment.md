@@ -49,3 +49,4 @@ For this assignment you will be taking the HTML and CSS you made for your websit
 - [CSS Tricks guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [Flexbox Froggy](https://flexboxfroggy.com/) to learn more about flexbox
 - [Grid Garden](https://cssgridgarden.com/) to learn more about CSS Grid
+- [Class Notes](https://github.com/lizthrilla/intro-to-web-test-drive/blob/master/chapter-2-css/02-css-layout/layouts.md)

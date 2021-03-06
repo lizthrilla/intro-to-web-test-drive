@@ -42,7 +42,7 @@ https://github.com/suncoast-devs/web-course-test-drive/tree/master/profile-card
 
 ## Possible Assignments
 
-- add flexbox and/or grid to our page
+- [add flexbox and/or grid to our page](https://github.com/lizthrilla/intro-to-web-test-drive/blob/master/chapter-2-css/02-css-layout/assignment.md)
 
 ## Additional Resources
 
