@@ -8,9 +8,9 @@ For this assignment you will be taking the HTML and CSS you made for your websit
 
 ### In Class Example
 
-- [https://glitch.com/~test-drive-09-20](https://glitch.com/~testdrive-02-21)
+- [https://glitch.com/~testdrive-02-21](https://glitch.com/~testdrive-02-21)
 
-- [https://test-drive-09-20.glitch.me/](https://testdrive-02-21.glitch.me/)
+- [https://testdrive-02-21.glitch.me/](https://testdrive-02-21.glitch.me/)
 
 - [In Class Flexbox example](https://glitch.com/~test-drive-flex-example)
 
