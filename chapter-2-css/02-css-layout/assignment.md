@@ -8,9 +8,13 @@ For this assignment you will be taking the HTML and CSS you made for your websit
 
 ### In Class Example
 
-- [https://glitch.com/~test-drive-09-20](https://glitch.com/~test-drive-09-20)
+- [https://glitch.com/~test-drive-09-20](https://glitch.com/~testdrive-02-21)
 
-- [https://test-drive-09-20.glitch.me/](https://test-drive-09-20.glitch.me/)
+- [https://test-drive-09-20.glitch.me/](https://testdrive-02-21.glitch.me/)
+
+- [In Class Flexbox example](https://glitch.com/~test-drive-flex-example)
+
+- [In Class Grid Example](https://glitch.com/edit/#!/test-drive-css-grid)
 
 ### Slides
 
@@ -37,9 +41,11 @@ For this assignment you will be taking the HTML and CSS you made for your websit
 ### Additional Resources
 
 - [Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- [Flexbox Froggy](https://flexboxfroggy.com/) to learn more about flexbox
 - [CSS Gride Guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [Grid by Example](https://gridbyexample.com/examples/)
 - [CSS Grid Generator](https://cssgrid-generator.netlify.com/)
 - [CSS Art](https://www.vice.com/en_us/article/9kgx7p/painting-made-with-code-html-pure-css-browser-art-diana-smith)
 - [CSS Tricks guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [CSS Tricks guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [Flexbox Froggy](https://flexboxfroggy.com/) to learn more about flexbox
+- [Grid Garden](https://cssgridgarden.com/) to learn more about CSS Grid

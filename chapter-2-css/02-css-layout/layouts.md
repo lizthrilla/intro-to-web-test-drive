@@ -22,6 +22,7 @@ https://slides.com/lizthrilla/more-css
 https://github.com/suncoast-devs/web-course-test-drive/tree/master/simple-flexbox
 https://github.com/suncoast-devs/web-course-test-drive/tree/master/nav-bar
 https://github.com/suncoast-devs/web-course-test-drive/tree/master/profile-card
+[In Class Grid Example](https://glitch.com/edit/#!/test-drive-css-grid)
 
 ## Lecture notes
 
@@ -54,6 +55,7 @@ https://github.com/suncoast-devs/web-course-test-drive/tree/master/profile-card
 - [CSS Art](https://www.vice.com/en_us/article/9kgx7p/painting-made-with-code-html-pure-css-browser-art-diana-smith)
 - [CSS Tricks guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [CSS Tricks guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [Grid by Example](https://gridbyexample.com/examples/)
 
 ## Recommended Practice:
 
