@@ -17,6 +17,9 @@ For this assignment you will be taking the HTML and CSS you made for your websit
 
 - [Mobile First Design](https://slides.com/lizthrilla/test-drive-mobile-first/)
 
+### Notes
+
+- [Mobile First Class Notes](https://github.com/lizthrilla/intro-to-web-test-drive/blob/master/chapter-2-css/03-mobile-responsive/responsive-web.md)
 ### Requirements
 
 - Apply the ideas and stylings that you learn about in class
