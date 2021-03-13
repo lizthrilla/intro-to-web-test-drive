@@ -1,4 +1,4 @@
-# Intro to CSS Layouts
+# Intro to Responsive and Mobile design
 
 In this lecture, the students will grow their knowledge of css by adding media queries and building a responsive website.
 
@@ -64,9 +64,9 @@ https://slides.com/lizthrilla/test-drive-mobile-first
     ```
 
 
-## Possible Assignments
+## Assignment
 
-- add media queries to our website
+- [add media queries to our website](https://github.com/lizthrilla/intro-to-web-test-drive/blob/master/chapter-2-css/03-mobile-responsive/assignment.md)
 
 ## Additional Resources
 
