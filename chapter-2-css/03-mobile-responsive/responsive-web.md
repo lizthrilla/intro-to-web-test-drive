@@ -72,8 +72,8 @@ https://slides.com/lizthrilla/test-drive-mobile-first
 
 - [Intro to Responsive Web](https://handbook.suncoast.io/lessons/css-responsive)
 - [Media Queries Details](https://handbook.suncoast.io/lessons/css-responsive/media-query-details)
+- [Standard Media Queries](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
 
 ## Next Lectures
 
-- Media Queries
 - Intro to JavaScript

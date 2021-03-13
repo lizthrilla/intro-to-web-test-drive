@@ -8,10 +8,11 @@ For this assignment you will be taking the HTML and CSS you made for your websit
 
 ### In Class Example
 
-- [https://glitch.com/~test-drive-09-20](https://glitch.com/~test-drive-09-20)
+- [https://glitch.com/~testdrive-02-21](https://glitch.com/~testdrive-02-21)
 
-- [https://test-drive-09-20.glitch.me/](https://test-drive-09-20.glitch.me/)
+- [https://testdrive-02-21.glitch.me/](https://testdrive-02-21.glitch.me/)
 
+- [https://glitch.com/~fern-luck-file](https://glitch.com/~fern-luck-file)
 ### Slides
 
 - [Mobile First Design](https://slides.com/lizthrilla/test-drive-mobile-first/)
@@ -38,3 +39,4 @@ For this assignment you will be taking the HTML and CSS you made for your websit
 
 - [Introduction to responsive web](https://handbook.suncoast.io/lessons/css-responsive)
 - [Media Queries](https://handbook.suncoast.io/lessons/css-responsive/media-query-details)
+- [Standard Media Queries](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
