@@ -40,6 +40,7 @@ For the dark mode theme, you will create separate set of CSS classes that will b
 ### Additional Resources
 
 - [Welcome to Javascript](https://handbook.suncoast.io/lessons/js-intro)
+- [JavaScript and the Dom](https://handbook.suncoast.io/lessons/js-dom)
 - [w3schools](https://www.w3schools.com/js/js_intro.asp)
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 - [List of Javascript Events](https://developer.mozilla.org/en-US/docs/Web/Events)
